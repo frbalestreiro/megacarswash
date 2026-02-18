@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Mega Cars Wash - Em Breve</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 95%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="em-breve.png" alt="Mega Cars Wash - Em Breve">
+</body>
+</html>
